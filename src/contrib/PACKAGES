@@ -14,3 +14,12 @@ License: MIT + file LICENSE
 MD5sum: 201bb7bf7da16a1f53934e54d8d7371f
 NeedsCompilation: no
 
+Package: traittools
+Version: 1.0.1
+Depends: R (>= 3.2.2)
+Imports: stringr, magrittr, openxlsx, readxl, tools, rhandsontable, doBy, shiny, date, sbformula
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: c9bf23c10e9f0be27d53fd6d49b632b4
+NeedsCompilation: no
+

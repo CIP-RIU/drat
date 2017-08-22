@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "drat::insertPackage(file = \"sbformula_2.0.1.tar.gz\",repodir = \"D:/HIDAP_PACAKGES/GITHUB/drat/\")\n\ndrat::insertPackage(file = \"D:/HIDAP_PACAKGES/GITHUB/traittools_1.0.1.tar.gz\",repodir = \"D:/HIDAP_PACAKGES/GITHUB/drat/\")",
+    "created" : 1503428335174.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3077694187",
+    "id" : "5C849756",
+    "lastKnownWriteTime" : 1503429028,
+    "last_content_update" : 1503429028250,
+    "path" : "D:/HIDAP_PACAKGES/GITHUB/drat/Rcode.R",
+    "project_path" : "Rcode.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
