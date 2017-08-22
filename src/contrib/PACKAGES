@@ -5,13 +5,12 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
-Package: fbdesign
-Version: 2.0.4
-Depends: R (>= 3.2.0), dplyr
-Suggests: shiny, shinydashboard, rhandsontable, shinyTree, shinyBS, agricolae, shinyFiles,
-          readxl, stringr, fbglobal, fbcrops, fbmaterials, fbmodule, fbprogram, fbprstages,
-          fbsites, magrittr, lazyeval, data.table, openxlsx
-License: GPL-3
-MD5sum: c3fce42fe6fc60cc0a68ff39b1d0dc9a
+Package: sbformula
+Version: 2.0.1
+Depends: R (>= 3.0.2)
+Imports: doBy, stringr, date, dplyr, car
+Suggests: knitr, testthat
+License: MIT + file LICENSE
+MD5sum: 201bb7bf7da16a1f53934e54d8d7371f
 NeedsCompilation: no
 
