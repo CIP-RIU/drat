@@ -5,6 +5,16 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: fbcheck
+Version: 2.0.2
+Depends: R (>= 3.2.1), traittools
+Imports: stringr, magrittr, openxlsx, readxl, tools, rhandsontable, doBy, shiny, sbformula, data.table, date, purrr, tidyr,
+              dplyr
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 1ae22a7d117a9ae262c8d2dc583da76f
+NeedsCompilation: no
+
 Package: sbformula
 Version: 2.0.1
 Depends: R (>= 3.0.2)

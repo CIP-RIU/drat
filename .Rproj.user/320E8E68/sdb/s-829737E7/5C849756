@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "drat::insertPackage(file = \"sbformula_2.0.1.tar.gz\",repodir = \"D:/HIDAP_PACAKGES/GITHUB/drat/\")\n\ndrat::insertPackage(file = \"D:/HIDAP_PACAKGES/GITHUB/traittools_1.0.1.tar.gz\",repodir = \"D:/HIDAP_PACAKGES/GITHUB/drat/\")",
+    "contents" : "drat::insertPackage(file = \"sbformula_2.0.1.tar.gz\",repodir = \"D:/HIDAP_PACAKGES/GITHUB/drat/\")\n\ndrat::insertPackage(file = \"D:/HIDAP_PACAKGES/GITHUB/traittools_1.0.1.tar.gz\",repodir = \"D:/HIDAP_PACAKGES/GITHUB/drat/\")\n\ndrat::insertPackage(file = \"D:/HIDAP_PACAKGES/GITHUB_HIDAP_MOD/fbcheck_2.0.2.tar.gz\",repodir = \"D:/HIDAP_PACAKGES/GITHUB/drat/\")",
     "created" : 1503428335174.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3077694187",
+    "hash" : "1544900788",
     "id" : "5C849756",
     "lastKnownWriteTime" : 1503429028,
-    "last_content_update" : 1503429028250,
+    "last_content_update" : 1503430246304,
     "path" : "D:/HIDAP_PACAKGES/GITHUB/drat/Rcode.R",
     "project_path" : "Rcode.R",
     "properties" : {
