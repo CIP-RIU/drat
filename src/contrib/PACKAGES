@@ -8,11 +8,22 @@ NeedsCompilation: no
 Package: fbcheck
 Version: 2.0.2
 Depends: R (>= 3.2.1), traittools
-Imports: stringr, magrittr, openxlsx, readxl, tools, rhandsontable, doBy, shiny, sbformula, data.table, date, purrr, tidyr,
-              dplyr
+Imports: stringr, magrittr, openxlsx, readxl, tools, rhandsontable, doBy, shiny, sbformula, data.table,
+           date, purrr, tidyr, dplyr
 Suggests: testthat
 License: MIT + file LICENSE
 MD5sum: 1ae22a7d117a9ae262c8d2dc583da76f
+NeedsCompilation: no
+
+Package: naniar
+Version: 0.2.0
+Depends: R (>= 3.1.2)
+Imports: dplyr, ggplot2, purrr, tidyr, tibble, magrittr, stats, visdat, purrrlyr, rlang, forcats,
+           viridis, glue
+Suggests: knitr, rmarkdown, testthat, rpart, rpart.plot, covr, gridExtra, wakefield, vdiffr, here,
+           simputation, imputeTS
+License: MIT + file LICENSE
+MD5sum: 3e2c5641c50e6e398d7febdacb68c750
 NeedsCompilation: no
 
 Package: sbformula
